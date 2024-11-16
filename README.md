@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Ryan Lefkowitz
 
-![Profile Banner](https://your-banner-image-url.com/banner.png) <!-- Replace with your actual banner image URL -->
-
 ## 🚀 About Me
 
-I'm a **24-year-old Software Engineer** based in 🗽 [New York City](https://en.wikipedia.org/wiki/New_York_City), currently working at [Greystone Engineering](https://www.greystoneengineering.com/).
+I'm a **24-year-old Software Engineer** based in 🗽 [New York City](https://en.wikipedia.org/wiki/New_York_City), currently working at [Greystone Engineering](https://www.greystone.com/).
 
 Passionate about building innovative tools, solving complex puzzles, and inspiring fellow developers. My journey in programming started at age 14 with **TI-Basic** on a calculator, and has since evolved into creating sophisticated applications and systems.
 
@@ -21,22 +19,16 @@ Passionate about building innovative tools, solving complex puzzles, and inspiri
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-3be133?style=flat&logo=ocaml&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-701516?style=flat&logo=ruby&logoColor=white)
-
-### **Frontend Development**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=flat&logo=css3&logoColor=white)
 
-### **Backend Development**
+### **Frameworks and Technologies**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-00C7B7?style=flat&logo=uvicorn&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-000000?style=flat&logo=alembic&logoColor=white)
-
-### **DevOps & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-2696D9?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -45,9 +37,6 @@ Passionate about building innovative tools, solving complex puzzles, and inspiri
 ![DataDog](https://img.shields.io/badge/DataDog-1E88E5?style=flat&logo=datadog&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20CI-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Azure CDN](https://img.shields.io/badge/Azure%20CDN-008AD7?style=flat&logo=microsoftazure&logoColor=white)
-
-### **Others**
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=flat&logo=openai&logoColor=white)
 ![TFLite](https://img.shields.io/badge/TFLite-4F8BFF?style=flat&logo=tensorflowlite&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-2684FF?style=flat&logo=jira&logoColor=white)
@@ -79,11 +68,5 @@ Passionate about building innovative tools, solving complex puzzles, and inspiri
 - **Machine Learning & AI:** Exploring advanced models and their applications in real-world scenarios.
 - **Cloud Computing:** Deepening my expertise in Azure services and infrastructure management.
 - **DevOps Practices:** Enhancing CI/CD pipelines and automation for efficient development workflows.
-
----
-
-![Snake animation](https://github.com/rlefkowitz/rlefkowitz/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Optional: Add a custom snake animation or any other engaging element -->
 
 ---
