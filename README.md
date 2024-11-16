@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Ryan Lefkowitz
-
-## 🚀 About Me
-
 I'm a **24-year-old Software Engineer** based in 🗽 [New York City](https://en.wikipedia.org/wiki/New_York_City), currently working at [Greystone Engineering](https://www.greystone.com/).
 
 Passionate about building innovative tools, solving complex puzzles, and inspiring fellow developers. My journey in programming started at age 14 with **TI-Basic** on a calculator, and has since evolved into creating sophisticated applications and systems.
